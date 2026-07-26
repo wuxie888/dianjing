@@ -17,6 +17,6 @@ jobs:
         with:
           python-version: "3.12"
       - name: Run audit script tests
-        run: python3 -m unittest discover -s skills/repo-atelier/scripts -p 'test_*.py'
+        run: python3 -m unittest discover -s skills/dianjing/scripts -p 'test_*.py'
       - name: Audit this repository
-        run: python3 skills/repo-atelier/scripts/audit_repository.py .
+        run: python3 skills/dianjing/scripts/audit_repository.py .

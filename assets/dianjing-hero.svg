@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 620" role="img" aria-labelledby="title desc">
-  <title id="title">Repo Atelier</title>
-  <desc id="desc">把仓库，打磨成产品门面</desc>
+  <title id="title">点睛</title>
+  <desc id="desc">为代码库完成视觉风格设计与装修</desc>
   <defs>
     <filter id="paper" x="-10%" y="-10%" width="120%" height="120%">
       <feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="3" seed="8" result="noise"/>
@@ -15,9 +15,9 @@
   <rect width="1400" height="620" fill="#F3EFE6"/>
   <rect width="1400" height="620" fill="url(#grid)" filter="url(#paper)"/>
   <path d="M64 72h78M103 33v78M1258 510h78M1297 471v78" stroke="#171716" stroke-width="1" opacity=".36"/>
-  <text x="84" y="138" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6" fill="#F0523D">REPOSITORY CRAFT / 01</text>
-  <text x="82" y="294" font-family="Georgia, 'Times New Roman', serif" font-size="112" fill="#171716">Repo Atelier</text>
-  <text x="88" y="382" font-family="Arial, 'PingFang SC', sans-serif" font-size="42" font-weight="600" fill="#171716">把仓库，打磨成产品门面</text>
+  <text x="84" y="138" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="6" fill="#F0523D">DIANJING / THE FINISHING TOUCH</text>
+  <text x="82" y="302" font-family="'Songti SC', 'STSong', serif" font-size="154" font-weight="700" fill="#171716">点睛</text>
+  <text x="88" y="392" font-family="Arial, 'PingFang SC', sans-serif" font-size="42" font-weight="600" fill="#171716">为代码库完成视觉风格设计与装修</text>
   <text x="90" y="442" font-family="Arial, 'PingFang SC', sans-serif" font-size="20" fill="#5D5A53">Audit → Position → Compose → Verify</text>
   <g transform="translate(910 80)">
     <rect x="0" y="0" width="326" height="150" fill="#E8E1D4" stroke="#171716" stroke-opacity=".22"/>
@@ -27,12 +27,13 @@
     <path d="M66 344h162M66 377h230M66 410h112" stroke="#F3EFE6" stroke-width="6" opacity=".78"/>
     <rect x="250" y="422" width="76" height="18" fill="#F0523D"/>
     <text x="68" y="452" font-family="Arial" font-size="16" letter-spacing="3" fill="#F3EFE6">POLISHED</text>
-    <path d="M278 28C190 116 362 170 246 250S180 364 286 414" fill="none" stroke="#F0523D" stroke-width="5"/>
+    <path d="M278 28C190 116 362 170 246 250S180 364 286 414" fill="none" stroke="#F0523D" stroke-width="5" stroke-linecap="round"/>
     <circle cx="278" cy="28" r="9" fill="#F0523D"/>
     <circle cx="286" cy="414" r="9" fill="#F0523D"/>
   </g>
   <line x1="84" y1="520" x2="1316" y2="520" stroke="#171716" stroke-opacity=".2"/>
   <text x="84" y="564" font-family="Arial" font-size="16" letter-spacing="2" fill="#5D5A53">TRUTHFUL · BEAUTIFUL · INSTALLABLE · LAUNCH-READY</text>
-  <circle cx="1274" cy="558" r="18" fill="none" stroke="#C6A66A" stroke-width="5"/>
-  <circle cx="1274" cy="558" r="5" fill="#F0523D"/>
+  <circle cx="1274" cy="558" r="24" fill="#171716"/>
+  <circle cx="1274" cy="558" r="16" fill="none" stroke="#C6A66A" stroke-width="6"/>
+  <circle cx="1274" cy="558" r="7" fill="#F0523D"/>
 </svg>

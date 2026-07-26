@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/repo-atelier-hero.svg" alt="Repo Atelier — 把仓库，打磨成产品门面" width="100%">
+  <img src="./assets/dianjing-hero.svg" alt="点睛 — 为代码库完成视觉风格设计与装修" width="100%">
 </p>
 
 <p align="center">
@@ -7,18 +7,18 @@
 </p>
 
 <p align="center">
-  <a href="https://wuxie888.github.io/repo-atelier/">动态展示页</a>
+  <a href="https://wuxie888.github.io/dianjing/">动态展示页</a>
   ·
-  <a href="./skills/repo-atelier/SKILL.md">阅读 Skill</a>
+  <a href="./skills/dianjing/SKILL.md">阅读 Skill</a>
   ·
-  <a href="./skills/repo-atelier/references/visual-and-motion.md">视觉与动效准则</a>
+  <a href="./skills/dianjing/references/visual-and-motion.md">视觉与动效准则</a>
 </p>
 
 ## 它解决什么
 
 产品做完以后，仓库往往仍像一个施工现场：定位含糊、README 只剩安装命令、真实画面缺席、发布状态说不清，动效要么完全没有，要么只为炫技。
 
-**Repo Atelier** 把这段高频收尾工作变成一条可复用流程：
+**点睛**把这段高频收尾工作变成一条可复用流程：
 
 ```text
 Audit → Position → Compose → Verify
@@ -38,17 +38,17 @@ Audit → Position → Compose → Verify
 
 ## 安装
 
-把 [`skills/repo-atelier`](./skills/repo-atelier) 复制到你的 Agent Skills 目录。以 Codex 为例：
+把 [`skills/dianjing`](./skills/dianjing) 复制到你的 Agent Skills 目录。以 Codex 为例：
 
 ```bash
-git clone https://github.com/wuxie888/repo-atelier.git
-cp -R repo-atelier/skills/repo-atelier ~/.codex/skills/repo-atelier
+git clone https://github.com/wuxie888/dianjing.git
+cp -R dianjing/skills/dianjing ~/.codex/skills/dianjing
 ```
 
 重新开启任务后可直接说：
 
 ```text
-使用 $repo-atelier 装修这个产品仓库，
+使用 $dianjing 装修这个代码库，
 完成定位、README、真实视觉与动效、上手文档和发布验收。
 ```
 
@@ -57,14 +57,14 @@ cp -R repo-atelier/skills/repo-atelier ~/.codex/skills/repo-atelier
 Skill 自带只读仓库审计脚本：
 
 ```bash
-python3 skills/repo-atelier/scripts/audit_repository.py /path/to/repository
+python3 skills/dianjing/scripts/audit_repository.py /path/to/repository
 ```
 
 它会检查 Git 边界、发布与文档表面、视觉媒体、可能的本机路径、占位文案和敏感文件名，并明确区分 **tracked** 与 **local-only** 资产。
 
 ## 为什么它自己长这样
 
-这个仓库是 Repo Atelier 的第一个自举案例：
+这个仓库是“点睛”的第一个自举案例：
 
 - README 负责静态、快速、可信地说明能力
 - GitHub Pages 承载标题入场、滚动显现、路径绘制和光斑反馈
@@ -72,13 +72,13 @@ python3 skills/repo-atelier/scripts/audit_repository.py /path/to/repository
 - 没有虚构指标、评价、产品截图或发布状态
 - 动效实现来自可追溯的本地设计资产，并遵守各自的克制与降级规则
 
-完整动态版本见 [wuxie888.github.io/repo-atelier](https://wuxie888.github.io/repo-atelier/)。
+完整动态版本见 [wuxie888.github.io/dianjing](https://wuxie888.github.io/dianjing/)。
 
 ## 项目结构
 
 ```text
-repo-atelier/
-├── skills/repo-atelier/   # 可安装的 Skill 本体
+dianjing/
+├── skills/dianjing/       # 可安装的 Skill 本体
 ├── site/                  # GitHub Pages 动态展示页
 ├── assets/                # README 品牌素材
 └── .github/workflows/     # 自动验证与 Pages 发布
@@ -88,10 +88,10 @@ repo-atelier/
 
 ```bash
 python3 -m unittest discover \
-  -s skills/repo-atelier/scripts \
+  -s skills/dianjing/scripts \
   -p 'test_*.py'
 
-python3 skills/repo-atelier/scripts/audit_repository.py .
+python3 skills/dianjing/scripts/audit_repository.py .
 ```
 
 ## 许可证

@@ -1,0 +1,4 @@
+interface:
+  display_name: "点睛"
+  short_description: "完成代码库的视觉风格设计与装修，让产品门面更美观、更可信"
+  default_prompt: "使用 $dianjing 装修这个代码库，完成视觉定位、README、真实素材与动效、上手文档和发布验收。"

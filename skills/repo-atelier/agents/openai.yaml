@@ -1,4 +1,0 @@
-interface:
-  display_name: "Repo Atelier"
-  short_description: "把产品仓库打磨成美观、可信、可安装、可传播的动态门面"
-  default_prompt: "使用 $repo-atelier 装修这个产品仓库，完成定位、README、真实视觉与动效、上手文档和发布验收。"

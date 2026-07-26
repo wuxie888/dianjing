@@ -85,13 +85,13 @@ h1 { margin: 0; font: clamp(74px, 8.5vw, 130px)/.9 var(--serif); letter-spacing:
 .w-46 { width: 46%; }.w-58 { width: 58%; }.w-72 { width: 72%; }
 .sheet-polished strong { display: block; font: 34px/1.04 var(--serif); font-weight: 400; }
 .stamp { position: absolute; right: 24px; bottom: 22px; padding: 6px 9px; color: var(--red); font-size: 9px; font-weight: 800; letter-spacing: .18em; border: 1px solid var(--red); transform: rotate(-5deg); }
-.thread { position: absolute; z-index: 3; top: 98px; right: 186px; width: 240px; height: 410px; overflow: visible; pointer-events: none; }
-.thread path { fill: none; stroke-linecap: round; }
-.thread-shadow { stroke: rgba(23,23,22,.15); stroke-width: 8; }
-.thread-path { stroke: var(--red); stroke-width: 4; stroke-dasharray: 640; stroke-dashoffset: 640; animation: stitch 2.2s cubic-bezier(.16,1,.3,1) .25s forwards; }
-@keyframes stitch { to { stroke-dashoffset: 0; } }
-.spool { position: absolute; right: -4px; bottom: 38px; width: 80px; height: 80px; border: 10px solid var(--brass); border-radius: 50%; box-shadow: inset 0 0 0 9px #80502d, inset 0 0 0 15px var(--red); transform: rotate(12deg); }
-.spool span { position: absolute; inset: 22px; border-radius: 50%; background: var(--ink); }
+.finishing-stroke { position: absolute; z-index: 3; top: 98px; right: 186px; width: 240px; height: 410px; overflow: visible; pointer-events: none; }
+.finishing-stroke path { fill: none; stroke-linecap: round; }
+.stroke-shadow { stroke: rgba(23,23,22,.15); stroke-width: 8; }
+.stroke-path { stroke: var(--red); stroke-width: 4; stroke-dasharray: 640; stroke-dashoffset: 640; animation: dot-the-eye 2.2s cubic-bezier(.16,1,.3,1) .25s forwards; }
+@keyframes dot-the-eye { to { stroke-dashoffset: 0; } }
+.eye-mark { position: absolute; right: -4px; bottom: 38px; width: 80px; height: 80px; border: 8px solid var(--brass); border-radius: 50%; box-shadow: inset 0 0 0 8px var(--paper), inset 0 0 0 16px var(--red); transform: rotate(12deg); }
+.eye-mark span { position: absolute; inset: 24px; border-radius: 50%; background: var(--ink); }
 
 .manifesto {
   padding: 96px max(32px, calc((100vw - 1320px)/2));
@@ -193,7 +193,7 @@ footer .brand { color: var(--ink); }
   .trust-line span + span::before { margin-right: 10px; }
   .hero-craft { min-height: 450px; transform: scale(.84); transform-origin: top left; width: 118%; }
   .sheet { width: 290px; }
-  .thread { right: 130px; }
+  .finishing-stroke { right: 130px; }
   .manifesto { padding: 70px 22px; }
   .manifesto p:last-child { margin: 18px 0 0; }
   .section-grid { padding: 90px 0; }
@@ -208,5 +208,5 @@ footer .brand { color: var(--ink); }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
-  .thread-path { stroke-dashoffset: 0; }
+  .stroke-path { stroke-dashoffset: 0; }
 }
