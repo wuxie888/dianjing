@@ -6,26 +6,22 @@
   <strong>一个会先核验产品，再设计叙事、视觉、动效与发布面的 Agent Skill。</strong>
 </p>
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml"><img alt="Validate" src="https://img.shields.io/github/actions/workflow/status/wuxie888/dianjing/validate.yml?branch=main&style=flat-square&label=Validate&labelColor=1B1A18&color=C94F3D"></a></td>
-    <td align="center"><a href="https://github.com/wuxie888/dianjing/actions/workflows/pages.yml"><img alt="Pages" src="https://img.shields.io/github/actions/workflow/status/wuxie888/dianjing/pages.yml?branch=main&style=flat-square&label=Pages&labelColor=1B1A18&color=C94F3D"></a></td>
-    <td align="center"><a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/wuxie888/dianjing?style=flat-square&label=License&labelColor=1B1A18&color=C94F3D"></a></td>
-    <td align="center"><a href="https://github.com/wuxie888/dianjing/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/wuxie888/dianjing?style=flat-square&label=Updated&labelColor=1B1A18&color=C94F3D"></a></td>
-    <td align="center"><a href="https://github.com/wuxie888/dianjing/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/wuxie888/dianjing?style=flat-square&label=Stars&labelColor=1B1A18&color=C94F3D"></a></td>
-    <td align="center"><a href="https://github.com/wuxie888/dianjing/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/wuxie888/dianjing?style=flat-square&label=Forks&labelColor=1B1A18&color=C94F3D"></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml"><img alt="Validate" src="https://img.shields.io/github/actions/workflow/status/wuxie888/dianjing/validate.yml?branch=main&style=flat-square&label=Validate&labelColor=1B1A18&color=C94F3D"></a>
+  <a href="https://github.com/wuxie888/dianjing/actions/workflows/pages.yml"><img alt="Pages" src="https://img.shields.io/github/actions/workflow/status/wuxie888/dianjing/pages.yml?branch=main&style=flat-square&label=Pages&labelColor=1B1A18&color=C94F3D"></a>
+  <a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/wuxie888/dianjing?style=flat-square&label=License&labelColor=1B1A18&color=C94F3D"></a>
+  <a href="https://github.com/wuxie888/dianjing/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/wuxie888/dianjing?style=flat-square&label=Updated&labelColor=1B1A18&color=C94F3D"></a>
+  <a href="https://github.com/wuxie888/dianjing/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/wuxie888/dianjing?style=flat-square&label=Stars&labelColor=1B1A18&color=C94F3D"></a>
+  <a href="https://github.com/wuxie888/dianjing/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/wuxie888/dianjing?style=flat-square&label=Forks&labelColor=1B1A18&color=C94F3D"></a>
+</p>
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/wuxie888"><img alt="GitHub wuxie888" src="https://img.shields.io/badge/GitHub-wuxie888-181717?style=flat-square&logo=github&logoColor=white"></a></td>
-    <td align="center"><a href="https://x.com/sciencedegens"><img alt="X @sciencedegens" src="https://img.shields.io/badge/X-%40sciencedegens-000000?style=flat-square&logo=x&logoColor=white"></a></td>
-    <td align="center"><a href="https://wuxie888.github.io/dianjing/"><img alt="点睛动态展示页" src="https://img.shields.io/badge/动态官网-点睛-C94F3D?style=flat-square&logo=githubpages&logoColor=white"></a></td>
-    <td align="center"><a href="./skills/dianjing/SKILL.md"><img alt="阅读点睛 Skill" src="https://img.shields.io/badge/文档-阅读_Skill-E9DFC9?style=flat-square&logo=markdown&logoColor=1B1A18"></a></td>
-    <td align="center"><a href="#安装与第一次成功"><img alt="安装点睛" src="https://img.shields.io/badge/安装-开始使用-1B1A18?style=flat-square&logo=gnubash&logoColor=white"></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/wuxie888"><img alt="GitHub wuxie888" src="https://img.shields.io/badge/GitHub-wuxie888-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://x.com/sciencedegens"><img alt="X @sciencedegens" src="https://img.shields.io/badge/X-%40sciencedegens-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://wuxie888.github.io/dianjing/"><img alt="点睛动态展示页" src="https://img.shields.io/badge/动态官网-点睛-C94F3D?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="./skills/dianjing/SKILL.md"><img alt="阅读点睛 Skill" src="https://img.shields.io/badge/文档-阅读_Skill-E9DFC9?style=for-the-badge&logo=markdown&logoColor=1B1A18"></a>
+  <a href="#安装与第一次成功"><img alt="安装点睛" src="https://img.shields.io/badge/安装-开始使用-1B1A18?style=for-the-badge&logo=gnubash&logoColor=white"></a>
+</p>
 
 <p align="center">
   <a href="#一份-readme-的自我改造">真实案例</a>
