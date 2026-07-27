@@ -131,7 +131,7 @@ h1 { margin: 0; font: clamp(74px, 8.5vw, 130px)/.9 var(--serif); letter-spacing:
 .levels { width: 100%; padding-left: max(32px, calc((100vw - 1320px)/2)); padding-right: max(32px, calc((100vw - 1320px)/2)); background: var(--ink); color: var(--paper); }
 .levels .section-no { color: #ff705d; }
 .level-list { margin: 0; padding: 0; list-style: none; }
-.level-list li { display: grid; grid-template-columns: 60px 190px 1fr; gap: 20px; align-items: baseline; padding: 28px 0; border-top: 1px solid rgba(243,239,230,.18); }
+.level-list li { display: grid; grid-template-columns: 72px 190px 1fr; gap: 20px; align-items: baseline; padding: 28px 0; border-top: 1px solid rgba(243,239,230,.18); }
 .level-list li:last-child { border-bottom: 1px solid rgba(243,239,230,.18); }
 .level-list span { color: #ff705d; font-size: 12px; font-weight: 800; }
 .level-list strong { font: 25px/1.2 var(--serif); font-weight: 400; }
@@ -198,7 +198,7 @@ footer .brand { color: var(--ink); }
   .manifesto p:last-child { margin: 18px 0 0; }
   .section-grid { padding: 90px 0; }
   .process-bench { grid-template-columns: 1fr; }
-  .level-list li { grid-template-columns: 42px 1fr; }
+  .level-list li { grid-template-columns: 64px 1fr; }
   .level-list p { grid-column: 2; }
   .install { margin-bottom: 70px; padding: 34px 24px; }
   .terminal { box-shadow: 7px 7px 0 var(--red); }
