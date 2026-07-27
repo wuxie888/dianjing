@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="#user-content-安装点睛">
+      <a href="./README.md#安装点睛">
         <img src="./assets/readme/native/icons/download.svg" alt="" width="18"><br>
         <strong>安装</strong>
       </a>
