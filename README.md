@@ -53,26 +53,26 @@
 
 四步成形，从审计走到验收。每一步都是可执行、可检查的真实流程。
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/search.svg" alt="" width="34"><br>
-      <strong>审计</strong><br>
+      <strong>&nbsp;审计&nbsp;</strong><br>
       <sub>Audit</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/target.svg" alt="" width="34"><br>
-      <strong>定位</strong><br>
+      <strong>&nbsp;定位&nbsp;</strong><br>
       <sub>Position</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/pencil.svg" alt="" width="34"><br>
-      <strong>构成</strong><br>
+      <strong>&nbsp;构成&nbsp;</strong><br>
       <sub>Compose</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/check.svg" alt="" width="34"><br>
-      <strong>验收</strong><br>
+      <strong>&nbsp;验收&nbsp;</strong><br>
       <sub>Verify</sub>
     </td>
   </tr>
