@@ -57,22 +57,22 @@
   <tr>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/search.svg" alt="" width="34"><br>
-      <strong>&nbsp;审计&nbsp;</strong><br>
+      <strong>审&nbsp;计</strong><br>
       <sub>Audit</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/target.svg" alt="" width="34"><br>
-      <strong>&nbsp;定位&nbsp;</strong><br>
+      <strong>定&nbsp;位</strong><br>
       <sub>Position</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/pencil.svg" alt="" width="34"><br>
-      <strong>&nbsp;构成&nbsp;</strong><br>
+      <strong>构&nbsp;成</strong><br>
       <sub>Compose</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/native/icons/check.svg" alt="" width="34"><br>
-      <strong>&nbsp;验收&nbsp;</strong><br>
+      <strong>验&nbsp;收</strong><br>
       <sub>Verify</sub>
     </td>
   </tr>
