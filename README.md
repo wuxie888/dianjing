@@ -8,15 +8,34 @@
   <strong>一个会先验产品，再设计叙事、视觉、动效与发布面的 Agent Skill。</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/wuxie888/dianjing"><img src="./assets/readme/canvas/icons/brand-github.svg" alt="" width="17"> <strong>GitHub</strong></a>
-  &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/sciencedegens"><img src="./assets/readme/canvas/icons/brand-x.svg" alt="" width="17"> <strong>X / Twitter</strong></a>
-  &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
-  <a href="https://wuxie888.github.io/dianjing/"><img src="./assets/readme/canvas/icons/world-www.svg" alt="" width="17"> <strong>动态展示</strong></a>
-  &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
-  <a href="#03--公开验收"><img src="./assets/readme/canvas/icons/download.svg" alt="" width="17"> <strong>安装</strong></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wuxie888/dianjing">
+        <img src="./assets/readme/canvas/icons/brand-github.svg" alt="" width="18"><br>
+        <strong>&nbsp;&nbsp;GitHub&nbsp;&nbsp;</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/sciencedegens">
+        <img src="./assets/readme/canvas/icons/brand-x.svg" alt="" width="18"><br>
+        <strong>&nbsp;&nbsp;X&nbsp;/&nbsp;Twitter&nbsp;&nbsp;</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wuxie888.github.io/dianjing/">
+        <img src="./assets/readme/canvas/icons/world-www.svg" alt="" width="18"><br>
+        <strong>&nbsp;&nbsp;动态展示&nbsp;&nbsp;</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#03--公开验收">
+        <img src="./assets/readme/canvas/icons/download.svg" alt="" width="18"><br>
+        <strong>&nbsp;&nbsp;安装&nbsp;&nbsp;</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
