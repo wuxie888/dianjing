@@ -1,6 +1,23 @@
 # 点睛
 
+<p align="center">
+  <a href="https://wuxie888.github.io/dianjing/">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/dianjing-hero.svg">
+      <img src="./assets/dianjing-hero.gif" alt="点睛：为代码库完成视觉风格设计与装修" width="100%">
+    </picture>
+  </a>
+</p>
+
 > **把一个已经完成或接近发布的代码仓库，变成别人一眼看懂、能安装、愿意相信和分享的 GitHub 产品页。**
+
+<p align="center">
+  <a href="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml"><img alt="Checks" src="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml/badge.svg?branch=main"></a>
+  <a href="./LICENSE"><img alt="License MIT" src="https://img.shields.io/badge/license-MIT-b38a42?style=flat-square"></a>
+  <a href="./skills/dianjing/SKILL.md"><img alt="Agent Skill" src="https://img.shields.io/badge/Agent-Skill-c24f32?style=flat-square"></a>
+  <a href="./skills/dianjing/SKILL.md"><img alt="Runtime Codex" src="https://img.shields.io/badge/runtime-Codex-6f42c1?style=flat-square"></a>
+  <a href="https://wuxie888.github.io/dianjing/"><img alt="Showcase Live" src="https://img.shields.io/badge/showcase-live-1f883d?style=flat-square"></a>
+</p>
 
 点睛是一个可安装的 Agent Skill。你给它一个真实代码仓库，它会先核验产品和发布状态，再整理产品定位、README、真实截图与动效、安装说明和公开验收；Logo、Hero、操作 GIF、展示网站、Social Preview 和 Release 媒体只在确有必要时采用。
 
@@ -11,15 +28,6 @@
 - **你得到**：一个美观、可信、易懂、可安装、可传播的公开仓库
 
 **[安装点睛](#安装与第一次运行)** · **[阅读 Skill](./skills/dianjing/SKILL.md)** · **[查看动态展示](https://wuxie888.github.io/dianjing/)**
-
-<p align="center">
-  <a href="https://wuxie888.github.io/dianjing/">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/dianjing-hero.svg">
-      <img src="./assets/dianjing-hero.gif" alt="点睛：为代码库完成视觉风格设计与装修" width="100%">
-    </picture>
-  </a>
-</p>
 
 ## 它适合谁
 
