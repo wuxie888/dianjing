@@ -21,7 +21,7 @@
     </a>
     <nav aria-label="主要导航">
       <a href="#process">工作流</a>
-      <a href="#levels">装修模块</a>
+      <a href="#proof">真实证据</a>
       <a href="#install">安装</a>
       <a class="nav-github" href="https://github.com/wuxie888/dianjing">GitHub ↗</a>
     </nav>
@@ -33,12 +33,12 @@
         <p class="section-no">01 / THE FINISHING TOUCH</p>
         <h1 data-kinetic="letters" data-kinetic-anim="rise" aria-label="点睛">点睛</h1>
         <p class="hero-cn">让代码库，最后一笔成形<span aria-hidden="true">。</span></p>
-        <p class="hero-lede">为代码库完成视觉风格设计与装修的 Agent Skill。先核验真实产品，再设计 README、视觉素材、动效、文档与发布门面，让好代码被看懂、信任和传播。</p>
+        <p class="hero-lede">把一个已经完成或接近发布的代码仓库，变成别人一眼看懂、能安装、愿意相信和分享的 GitHub 产品页。</p>
         <div class="hero-actions">
-          <a class="button button-dark" href="#install">安装 Skill</a>
-          <a class="button button-text" href="https://github.com/wuxie888/dianjing">查看源码 ↗</a>
+          <a class="button button-dark" href="#install">安装点睛</a>
+          <a class="button button-text" href="#audit">只读审计</a>
         </div>
-        <p class="trust-line"><span>Open source</span><span>MIT</span><span>Truth before polish</span></p>
+        <p class="trust-line"><span>Agent Skill</span><span>MIT</span><span>Repository first</span></p>
       </div>
 
       <div class="hero-craft" aria-label="从原始仓库到发布级产品门面的过程图">
@@ -59,81 +59,184 @@
       </div>
     </section>
 
-    <section class="manifesto" data-reveal>
-      <p>代码已经完成。</p>
-      <p>现在，让它被看见。</p>
+    <section class="contract" aria-labelledby="contract-title" data-reveal>
+      <div class="contract-inner">
+        <div class="contract-heading">
+          <p class="section-no">02 / PRODUCT CONTRACT</p>
+          <h2 id="contract-title">你给仓库，<br>点睛完成最后一公里。</h2>
+        </div>
+        <dl class="contract-flow">
+          <div>
+            <dt>你提供</dt>
+            <dd>一个真实、已经完成或接近发布的代码仓库</dd>
+          </div>
+          <div>
+            <dt>点睛会做</dt>
+            <dd>核验事实，重组说明，组织真实素材，补齐安装与验收</dd>
+          </div>
+          <div>
+            <dt>你得到</dt>
+            <dd>一个美观、可信、易懂、可安装、可传播的公开仓库</dd>
+          </div>
+        </dl>
+      </div>
     </section>
 
     <section class="process section-grid" id="process" data-reveal>
       <div class="section-heading">
-        <p class="section-no">02 / THE DIANJING PROCESS</p>
-        <h2>先验真实，<br>再落最后一笔。</h2>
-        <p>四道工序，先事实、后表达。每一步都有清晰输入、产物和验收标准。</p>
+        <p class="section-no">03 / THE DIANJING PROCESS</p>
+        <h2>四步，<br>不是套模板。</h2>
+        <p>点击每一步，查看点睛在自己的真实仓库里怎样判断、采用和验收。</p>
       </div>
-      <div class="process-bench">
-        <article class="process-step spotlight">
-          <span>01</span><h3>Audit</h3><p>定位真实仓库、入口、版本、许可证、素材与发布状态。</p>
-        </article>
-        <article class="process-step spotlight">
-          <span>02</span><h3>Position</h3><p>说清用户交付什么、产品完成什么、最终得到什么。</p>
-        </article>
-        <article class="process-step spotlight">
-          <span>03</span><h3>Compose</h3><p>构成 README、真实视觉、动效、文档和发布表面。</p>
-        </article>
-        <article class="process-step spotlight">
-          <span>04</span><h3>Verify</h3><p>检查链接、安装、移动端、减少动态和公开产物。</p>
-        </article>
+      <div class="process-stage">
+        <div class="process-bench" role="group" aria-label="点睛四步工作流">
+          <button class="process-step spotlight" type="button" data-process-step="audit" aria-pressed="true">
+            <span>01</span><h3>Audit</h3><p>先确认仓库与产品事实。</p>
+          </button>
+          <button class="process-step spotlight" type="button" data-process-step="position" aria-pressed="false">
+            <span>02</span><h3>Position</h3><p>再建立清晰产品合同。</p>
+          </button>
+          <button class="process-step spotlight" type="button" data-process-step="compose" aria-pressed="false">
+            <span>03</span><h3>Compose</h3><p>只采用真正需要的表面。</p>
+          </button>
+          <button class="process-step spotlight" type="button" data-process-step="verify" aria-pressed="false">
+            <span>04</span><h3>Verify</h3><p>分别验证每一种完成状态。</p>
+          </button>
+        </div>
+
+        <div class="process-panels" aria-live="polite">
+          <article class="process-panel" data-process-panel="audit">
+            <p class="panel-kicker">点睛自身仓库 · 当前事实</p>
+            <h3>先确认它真的是什么。</h3>
+            <ul>
+              <li>公开仓库，默认分支为 <code>main</code></li>
+              <li>MIT License，已接入 Validate Actions</li>
+              <li>GitHub Pages 已启用，当前没有版本化 Tag 或 Release</li>
+            </ul>
+          </article>
+          <article class="process-panel" data-process-panel="position" hidden>
+            <p class="panel-kicker">稳定输入 · 稳定目标 · 成功标准</p>
+            <h3>一句话先说清产品合同。</h3>
+            <ul>
+              <li>输入：已经完成或接近发布的真实代码仓库</li>
+              <li>动作：核验、定位、构成、验收</li>
+              <li>输出：别人看得懂、装得上、愿意相信的公开产品页</li>
+            </ul>
+          </article>
+          <article class="process-panel" data-process-panel="compose" hidden>
+            <p class="panel-kicker">按产品价值选择，而不是堆模块</p>
+            <h3>点睛自己采用了三个表面。</h3>
+            <ul>
+              <li>仓库底座：README、安装、许可证与公开边界</li>
+              <li>动态表达：GitHub 兼容 Hero 与减少动态回退</li>
+              <li>展示网站：用真实网页证明视觉、动效和交互能力</li>
+            </ul>
+          </article>
+          <article class="process-panel" data-process-panel="verify" hidden>
+            <p class="panel-kicker">每一种“完成”分开报告</p>
+            <h3>本地、远端、Pages 和 Release 不是一回事。</h3>
+            <ul>
+              <li>README 分别检查桌面端与窄屏阅读顺序</li>
+              <li>Pages 检查响应式、交互和减少动态</li>
+              <li>没有 Tag 或 Release，就明确写成尚未发布版本</li>
+            </ul>
+          </article>
+        </div>
       </div>
     </section>
 
     <section class="levels section-grid" id="levels" data-reveal>
       <div class="section-heading inverse">
-        <p class="section-no">03 / CORE + OPTIONAL MODULES</p>
+        <p class="section-no">04 / CORE + OPTIONAL MODULES</p>
         <h2>先把底座做好，<br>再按需加模块。</h2>
       </div>
       <ol class="level-list">
-        <li><span>BASE</span><strong>仓库底座</strong><p>定位、README、安装、真实素材、许可证与治理</p></li>
-        <li><span>MOTION</span><strong>动态表达</strong><p>只在改善理解、信任或品牌时加入 Hero、GIF 与视频</p></li>
-        <li><span>SHOW</span><strong>展示网站</strong><p>只在 README 无法承载关键体验且没有现成官网时建站</p></li>
-        <li><span>SHIP</span><strong>发布传播</strong><p>按真实发布阶段加入社交预览、Release 媒体与公开回归</p></li>
+        <li><span>BASE</span><strong>仓库底座</strong><p>定位、README、安装、真实素材、许可证与治理</p><b class="module-status is-on">已采用</b></li>
+        <li><span>MOTION</span><strong>动态表达</strong><p>Hero、克制动效、静态首帧与减少动态</p><b class="module-status is-on">已采用</b></li>
+        <li><span>SHOW</span><strong>展示网站</strong><p>点睛需要在线证明视觉、交互与动效能力</p><b class="module-status is-on">已采用</b></li>
+        <li><span>SHIP</span><strong>发布传播</strong><p>已有公开源码和 Pages，尚无版本化 Tag / Release</p><b class="module-status is-partial">部分采用</b></li>
       </ol>
     </section>
 
-    <section class="proof section-grid" data-reveal>
+    <section class="proof section-grid" id="proof" data-reveal>
       <div class="section-heading">
-        <p class="section-no">04 / REAL OUTPUT, REAL REPO</p>
-        <h2>漂亮，要经得起核验。</h2>
-        <p>不发明功能、指标、评价或兼容性。视觉只解释真实产品，发布状态按证据表达。</p>
+        <p class="section-no">05 / LIVE PROOF, REAL REPO</p>
+        <h2>点睛正在<br>装修自己。</h2>
+        <p>自举能证明这套门面真实运行，但不能单独证明它适合所有项目。外部案例完成前，不把跨项目复用写成既成事实。</p>
       </div>
-      <div class="proof-list">
-        <p><span>✓</span> 仓库边界与 Git 状态</p>
-        <p><span>✓</span> 真实截图、录屏与输出</p>
-        <p><span>✓</span> 安装、首次成功与升级路径</p>
-        <p><span>✓</span> 静态首帧与减少动态</p>
-        <p><span>✓</span> 远端源码、采用的网站与 Release 分开验收</p>
-      </div>
+      <article class="repo-proof" aria-label="点睛公开仓库的当前证据">
+        <header class="repo-proof-head">
+          <div>
+            <span class="repo-owner">wuxie888 /</span>
+            <strong>dianjing</strong>
+          </div>
+          <span class="public-mark">PUBLIC</span>
+        </header>
+        <dl class="repo-facts">
+          <div><dt>默认分支</dt><dd>main</dd></div>
+          <div><dt>许可证</dt><dd>MIT</dd></div>
+          <div>
+            <dt>自动验证</dt>
+            <dd>
+              <a href="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml">
+                <img class="workflow-badge" src="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml/badge.svg?branch=main" alt="Validate workflow status">
+              </a>
+            </dd>
+          </div>
+          <div><dt>展示页面</dt><dd><span class="status-dot"></span>GitHub Pages</dd></div>
+          <div><dt>版本发布</dt><dd class="fact-muted">尚无 Tag / Release</dd></div>
+        </dl>
+        <div class="repo-links">
+          <a href="https://github.com/wuxie888/dianjing">打开仓库 ↗</a>
+          <a href="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml">查看验证 ↗</a>
+          <a href="https://github.com/wuxie888/dianjing/blob/main/skills/dianjing/SKILL.md">阅读 Skill ↗</a>
+        </div>
+      </article>
+    </section>
+
+    <section class="truth-strip" data-reveal>
+      <p>不替产品补造功能。</p>
+      <p>不拿漂亮图片掩盖未完成。</p>
+      <p>不把一种成功冒充全部完成。</p>
     </section>
 
     <section class="install" id="install" data-reveal>
-      <div>
-        <p class="section-no">05 / INSTALL</p>
-        <h2>把点睛交给<br>下一个代码库。</h2>
+      <div class="install-copy">
+        <p class="section-no">06 / START</p>
+        <h2>先看判断，<br>再决定要不要改。</h2>
+        <p>可以完整安装点睛，也可以先运行只读审计。审计不会替你修改仓库。</p>
       </div>
-      <div class="terminal" aria-label="安装命令">
-        <div class="terminal-bar"><span></span><span></span><span></span><b>dianjing — zsh</b></div>
-        <pre><code><i>$</i> git clone https://github.com/wuxie888/dianjing.git
-<i>$</i> cp -R dianjing/skills/dianjing ~/.codex/skills/
+      <div class="command-console">
+        <div class="command-tabs" role="tablist" aria-label="开始使用点睛">
+          <button id="install-tab" type="button" role="tab" aria-selected="true" aria-controls="panel-install" data-command-tab="install">安装 Skill</button>
+          <button id="audit" type="button" role="tab" aria-selected="false" aria-controls="panel-audit" data-command-tab="audit">只读审计</button>
+        </div>
+        <section class="terminal command-panel" id="panel-install" role="tabpanel" aria-labelledby="install-tab" data-command-panel="install">
+          <div class="terminal-bar"><span></span><span></span><span></span><b>dianjing — install</b></div>
+          <pre><code><i>$</i> git clone https://github.com/wuxie888/dianjing.git
+<i>$</i> mkdir -p ~/.codex/skills
+<i>$</i> cp -R dianjing/skills/dianjing ~/.codex/skills/dianjing
 
 <em># 在新任务中</em>
 使用 $dianjing 装修这个代码库</code></pre>
-        <button class="copy-button" type="button" data-copy="git clone https://github.com/wuxie888/dianjing.git">复制 clone 命令</button>
+          <button class="copy-button" type="button" data-copy="git clone https://github.com/wuxie888/dianjing.git" data-copy-label="复制 clone 命令">复制 clone 命令</button>
+        </section>
+        <section class="terminal command-panel" id="panel-audit" role="tabpanel" aria-labelledby="audit" data-command-panel="audit" hidden>
+          <div class="terminal-bar"><span></span><span></span><span></span><b>dianjing — audit</b></div>
+          <pre><code><em># 不修改目标仓库</em>
+<i>$</i> python3 skills/dianjing/scripts/audit_repository.py \
+    /path/to/repository
+
+<em># 返回仓库边界、文档、媒体与发布表面检查</em></code></pre>
+          <button class="copy-button" type="button" data-copy="python3 skills/dianjing/scripts/audit_repository.py /path/to/repository" data-copy-label="复制审计命令">复制审计命令</button>
+        </section>
       </div>
     </section>
   </main>
 
   <footer>
     <a class="brand" href="#top"><span class="brand-mark" aria-hidden="true">睛</span><span>点睛</span></a>
-    <p>The finishing touch for code repositories.</p>
+    <p>Repository truth, product clarity, the finishing touch.</p>
     <a href="https://github.com/wuxie888/dianjing">GitHub ↗</a>
   </footer>
 
