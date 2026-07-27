@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/readme/action-links.svg" alt="GitHub、X、动态展示与安装" width="400">
+  <img src="./assets/readme/action-icons.svg" alt="GitHub、X、动态展示与安装" width="400">
 </p>
 
 <p align="center">
