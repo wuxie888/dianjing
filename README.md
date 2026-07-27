@@ -12,25 +12,25 @@
   <tr>
     <td align="center">
       <a href="https://github.com/wuxie888/dianjing">
-        <img src="./assets/readme/canvas/icons/brand-github.svg" alt="" width="18"><br>
+        <img src="./assets/readme/native/icons/brand-github.svg" alt="" width="18"><br>
         <strong>GitHub</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://x.com/sciencedegens">
-        <img src="./assets/readme/canvas/icons/brand-x.svg" alt="" width="18"><br>
+        <img src="./assets/readme/native/icons/brand-x.svg" alt="" width="18"><br>
         <strong>X</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://wuxie888.github.io/dianjing/">
-        <img src="./assets/readme/canvas/icons/world-www.svg" alt="" width="18"><br>
+        <img src="./assets/readme/native/icons/world-www.svg" alt="" width="18"><br>
         <strong>演示</strong>
       </a>
     </td>
     <td align="center">
       <a href="#user-content-安装点睛">
-        <img src="./assets/readme/canvas/icons/download.svg" alt="" width="18"><br>
+        <img src="./assets/readme/native/icons/download.svg" alt="" width="18"><br>
         <strong>安装</strong>
       </a>
     </td>
@@ -45,7 +45,7 @@
 
 | Before · README 原状 | After · 统一产品门面 |
 | :---: | :---: |
-| [<img src="./assets/readme/canvas/before.jpg" alt="改造前的点睛 GitHub README" width="100%">](./assets/readme/canvas/before.jpg) | [<img src="./assets/readme/canvas/after.jpg" alt="点睛统一后的公开产品门面" width="100%">](https://wuxie888.github.io/dianjing/) |
+| [<img src="./assets/readme/native/before.jpg" alt="改造前的点睛 GitHub README" width="100%">](./assets/readme/native/before.jpg) | [<img src="./assets/readme/native/after.jpg" alt="点睛统一后的公开产品门面" width="100%">](https://wuxie888.github.io/dianjing/) |
 
 <br>
 
@@ -56,22 +56,22 @@
 <table width="100%">
   <tr>
     <td align="center" width="22%">
-      <img src="./assets/readme/canvas/icons/search.svg" alt="" width="34"><br>
+      <img src="./assets/readme/native/icons/search.svg" alt="" width="34"><br>
       <strong>审计</strong><br>
       <sub>Audit</sub>
     </td>
     <td align="center" width="22%">
-      <img src="./assets/readme/canvas/icons/target.svg" alt="" width="34"><br>
+      <img src="./assets/readme/native/icons/target.svg" alt="" width="34"><br>
       <strong>定位</strong><br>
       <sub>Position</sub>
     </td>
     <td align="center" width="22%">
-      <img src="./assets/readme/canvas/icons/pencil.svg" alt="" width="34"><br>
+      <img src="./assets/readme/native/icons/pencil.svg" alt="" width="34"><br>
       <strong>构成</strong><br>
       <sub>Compose</sub>
     </td>
     <td align="center" width="22%">
-      <img src="./assets/readme/canvas/icons/check.svg" alt="" width="34"><br>
+      <img src="./assets/readme/native/icons/check.svg" alt="" width="34"><br>
       <strong>验收</strong><br>
       <sub>Verify</sub>
     </td>
