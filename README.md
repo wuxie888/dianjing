@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dianjing-hero.svg" alt="点睛 — 为代码库完成视觉风格设计与装修" width="100%">
+  <img src="./assets/dianjing-hero.gif" alt="点睛 — 从代码结构到视觉风格的动态仓库装修" width="100%">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ python3 skills/dianjing/scripts/audit_repository.py /path/to/repository
 
 这个仓库是“点睛”的第一个自举案例：
 
-- README 负责静态、快速、可信地说明能力
+- README 用轻量循环 Hero 在第一屏讲清“代码结构被点亮成产品门面”，正文保持快速、稳定、可信
 - GitHub Pages 承载标题入场、滚动显现、路径绘制和光斑反馈
 - 所有关键内容在关闭 JavaScript或开启“减少动态”后仍可读
 - 没有虚构指标、评价、产品截图或发布状态
