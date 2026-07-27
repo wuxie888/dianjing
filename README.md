@@ -29,7 +29,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/wuxie888/dianjing#安装点睛">
+      <a href="#user-content-安装点睛">
         <img src="./assets/readme/canvas/icons/download.svg" alt="" width="18"><br>
         <strong>&nbsp;&nbsp;安装&nbsp;&nbsp;</strong>
       </a>
