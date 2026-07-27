@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="642" height="24" viewBox="0 0 642 24" role="img" aria-labelledby="title desc">
+  <title id="title">点睛仓库状态</title>
+  <desc id="desc">checks Actions, license MIT, type Agent Skill, runtime Codex, showcase Pages</desc>
+  <defs>
+    <clipPath id="b1"><rect width="126" height="24" rx="4"/></clipPath>
+    <clipPath id="b2"><rect x="134" width="103" height="24" rx="4"/></clipPath>
+    <clipPath id="b3"><rect x="245" width="116" height="24" rx="4"/></clipPath>
+    <clipPath id="b4"><rect x="369" width="125" height="24" rx="4"/></clipPath>
+    <clipPath id="b5"><rect x="502" width="140" height="24" rx="4"/></clipPath>
+  </defs>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+    <g clip-path="url(#b1)">
+      <rect width="60" height="24" fill="#555"/>
+      <rect x="60" width="66" height="24" fill="#2070b4"/>
+      <text x="30" y="16.5" fill="#fff">checks</text>
+      <text x="93" y="16.5" fill="#fff">Actions</text>
+    </g>
+    <g clip-path="url(#b2)">
+      <rect x="134" width="62" height="24" fill="#555"/>
+      <rect x="196" width="41" height="24" fill="#b38a42"/>
+      <text x="165" y="16.5" fill="#fff">license</text>
+      <text x="216.5" y="16.5" fill="#fff">MIT</text>
+    </g>
+    <g clip-path="url(#b3)">
+      <rect x="245" width="52" height="24" fill="#555"/>
+      <rect x="297" width="64" height="24" fill="#c24f32"/>
+      <text x="271" y="16.5" fill="#fff">type</text>
+      <text x="329" y="16.5" fill="#fff">Agent Skill</text>
+    </g>
+    <g clip-path="url(#b4)">
+      <rect x="369" width="64" height="24" fill="#555"/>
+      <rect x="433" width="61" height="24" fill="#6f42c1"/>
+      <text x="401" y="16.5" fill="#fff">runtime</text>
+      <text x="463.5" y="16.5" fill="#fff">Codex</text>
+    </g>
+    <g clip-path="url(#b5)">
+      <rect x="502" width="78" height="24" fill="#555"/>
+      <rect x="580" width="62" height="24" fill="#1f883d"/>
+      <text x="541" y="16.5" fill="#fff">showcase</text>
+      <text x="611" y="16.5" fill="#fff">Pages</text>
+    </g>
+  </g>
+</svg>

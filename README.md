@@ -11,7 +11,11 @@
 
 > **把一个已经完成或接近发布的代码仓库，变成别人一眼看懂、能安装、愿意相信和分享的 GitHub 产品页。**
 
-[![Checks](https://github.com/wuxie888/dianjing/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/wuxie888/dianjing/actions/workflows/validate.yml) [![License MIT](https://img.shields.io/badge/license-MIT-b38a42?style=flat-square)](./LICENSE) [![Agent Skill](https://img.shields.io/badge/Agent-Skill-c24f32?style=flat-square)](./skills/dianjing/SKILL.md) [![Runtime Codex](https://img.shields.io/badge/runtime-Codex-6f42c1?style=flat-square)](./skills/dianjing/SKILL.md) [![Showcase Live](https://img.shields.io/badge/showcase-live-1f883d?style=flat-square)](https://wuxie888.github.io/dianjing/)
+<p align="center">
+  <a href="https://github.com/wuxie888/dianjing/actions/workflows/validate.yml">
+    <img src="./assets/dianjing-badges.svg" alt="checks Actions · license MIT · type Agent Skill · runtime Codex · showcase Pages">
+  </a>
+</p>
 
 点睛是一个可安装的 Agent Skill。你给它一个真实代码仓库，它会先核验产品和发布状态，再整理产品定位、README、真实截图与动效、安装说明和公开验收；Logo、Hero、操作 GIF、展示网站、Social Preview 和 Release 媒体只在确有必要时采用。
 
