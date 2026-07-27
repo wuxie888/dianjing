@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 64" role="img" aria-labelledby="title desc">
+  <title id="title">点睛相关入口</title>
+  <desc id="desc">GitHub、X、动态展示与安装</desc>
+  <!-- Icon paths from Tabler Icons, MIT License. -->
+  <g fill="none" stroke="#C94F3D" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(18 20)">
+      <path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2 2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0C6.5 2.8 5.4 3.1 5.4 3.1a4.2 4.2 0 0 0-.1 3.2A4.6 4.6 0 0 0 4 9.5c0 4.6 2.7 5.7 5.5 6-.6.6-.6 1.2-.5 2V21"/>
+    </g>
+
+    <g transform="translate(200 20)">
+      <path d="m4 4 11.733 16H20L8.267 4H4"/>
+      <path d="m4 20 6.768-6.768m2.46-2.46L20 4"/>
+    </g>
+
+    <g transform="translate(402 20)">
+      <path d="M19.5 7A9 9 0 0 0 12 3a8.991 8.991 0 0 0-7.484 4"/>
+      <path d="M11.5 3a16.989 16.989 0 0 0-1.826 4M12.5 3a16.989 16.989 0 0 1 1.828 4"/>
+      <path d="M19.5 17a9 9 0 0 1-7.5 4 8.991 8.991 0 0 1-7.484-4"/>
+      <path d="M11.5 21a16.989 16.989 0 0 1-1.826-4M12.5 21a16.989 16.989 0 0 0 1.828-4"/>
+      <path d="m2 10 1 4 1.5-4 1.5 4 1-4M17 10l1 4 1.5-4 1.5 4 1-4M9.5 10l1 4 1.5-4 1.5 4 1-4"/>
+    </g>
+
+    <g transform="translate(608 20)">
+      <path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"/>
+      <path d="m7 11 5 5 5-5M12 4v12"/>
+    </g>
+
+    <path d="M164 16v32M366 16v32M572 16v32" opacity=".28"/>
+  </g>
+
+  <g fill="#C94F3D" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" font-weight="600">
+    <text x="56" y="38">GitHub</text>
+    <text x="238" y="38">X / Twitter</text>
+    <text x="440" y="38">动态展示</text>
+    <text x="646" y="38">安装</text>
+  </g>
+</svg>

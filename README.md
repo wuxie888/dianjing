@@ -11,10 +11,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/wuxie888/dianjing"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
-  <a href="https://x.com/sciencedegens"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-181717?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X / Twitter"></a>
-  <a href="https://wuxie888.github.io/dianjing/"><img src="https://img.shields.io/badge/动态展示-C94F3D?style=flat-square&amp;logo=githubpages&amp;logoColor=white" alt="动态展示"></a>
-  <a href="#安装与第一次成功"><img src="https://img.shields.io/badge/安装-181717?style=flat-square&amp;logo=gnubash&amp;logoColor=white" alt="安装"></a>
+  <img src="./assets/readme/action-links.svg" alt="GitHub、X、动态展示与安装" width="760">
+</p>
+
+<p align="center">
+  <a href="https://github.com/wuxie888/dianjing">GitHub</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/sciencedegens">X / Twitter</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wuxie888.github.io/dianjing/">动态展示</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#安装与第一次成功">安装</a>
 </p>
 
 ---
