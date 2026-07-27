@@ -57,11 +57,11 @@
       <sub><b>BEFORE · 施工现场</b><br>有说明，但没有连续的视觉节奏、状态入口和真实案例。</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://wuxie888.github.io/dianjing/">
-        <img src="./assets/readme/pages-hero.png" alt="改造后：点睛动态产品门面" width="100%">
+      <a href="https://github.com/wuxie888/dianjing">
+        <img src="./assets/readme/after-readme.png" alt="改造后：点睛 README 的状态徽章、社交入口和案例叙事" width="100%">
       </a>
       <br>
-      <sub><b>AFTER · 产品门面</b><br>同一套定位、视觉、动效与发布语言贯穿 README 和 Pages。</sub>
+      <sub><b>AFTER · 点睛成品</b><br>状态、入口、真实案例与品牌视觉从 Hero 后继续生长。</sub>
     </td>
   </tr>
 </table>
