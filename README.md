@@ -8,7 +8,7 @@
   <strong>一个会先验产品，再设计叙事、视觉、动效与发布面的 Agent Skill。</strong>
 </p>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/wuxie888/dianjing">
@@ -53,9 +53,43 @@
 
 四步成形，从审计走到验收。每一步都是可执行、可检查的真实流程。
 
-| <img src="./assets/readme/canvas/icons/search.svg" alt="" width="34"><br>**审计**<br><sub>Audit</sub> | <img src="./assets/readme/canvas/icons/target.svg" alt="" width="34"><br>**定位**<br><sub>Position</sub> | <img src="./assets/readme/canvas/icons/pencil.svg" alt="" width="34"><br>**构成**<br><sub>Compose</sub> | <img src="./assets/readme/canvas/icons/check.svg" alt="" width="34"><br>**验收**<br><sub>Verify</sub> |
-| :---: | :---: | :---: | :---: |
-| 验证真实产品 | 找准叙事与受众 | 组织文档与视觉 | 确认一致可发布 |
+<table width="100%">
+  <tr>
+    <td align="center" width="22%">
+      <img src="./assets/readme/canvas/icons/search.svg" alt="" width="34"><br>
+      <strong>审计</strong><br>
+      <sub>Audit</sub><br><br>
+      验证真实产品
+    </td>
+    <td align="center" width="4%">
+      <img src="./assets/readme/canvas/icons/arrow-right.svg" alt="" width="20">
+    </td>
+    <td align="center" width="22%">
+      <img src="./assets/readme/canvas/icons/target.svg" alt="" width="34"><br>
+      <strong>定位</strong><br>
+      <sub>Position</sub><br><br>
+      找准叙事与受众
+    </td>
+    <td align="center" width="4%">
+      <img src="./assets/readme/canvas/icons/arrow-right.svg" alt="" width="20">
+    </td>
+    <td align="center" width="22%">
+      <img src="./assets/readme/canvas/icons/pencil.svg" alt="" width="34"><br>
+      <strong>构成</strong><br>
+      <sub>Compose</sub><br><br>
+      组织文档与视觉
+    </td>
+    <td align="center" width="4%">
+      <img src="./assets/readme/canvas/icons/arrow-right.svg" alt="" width="20">
+    </td>
+    <td align="center" width="22%">
+      <img src="./assets/readme/canvas/icons/check.svg" alt="" width="34"><br>
+      <strong>验收</strong><br>
+      <sub>Verify</sub><br><br>
+      确认一致可发布
+    </td>
+  </tr>
+</table>
 
 点睛先确认源码、运行状态、许可证、发布渠道与真实素材，再决定 README、Logo、Hero、截图、GIF、视频、展示网站、上手与排错文档哪些真正有必要。
 
