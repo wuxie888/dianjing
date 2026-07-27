@@ -8,34 +8,15 @@
   <strong>一个会先验产品，再设计叙事、视觉、动效与发布面的 Agent Skill。</strong>
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/wuxie888/dianjing">
-        <img src="./assets/readme/canvas/icons/brand-github.svg" alt="" width="18"><br>
-        <strong>GitHub</strong>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://x.com/sciencedegens">
-        <img src="./assets/readme/canvas/icons/brand-x.svg" alt="" width="18"><br>
-        <strong>X / Twitter</strong>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://wuxie888.github.io/dianjing/">
-        <img src="./assets/readme/canvas/icons/world-www.svg" alt="" width="18"><br>
-        <strong>动态展示</strong>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="#03--公开验收">
-        <img src="./assets/readme/canvas/icons/download.svg" alt="" width="18"><br>
-        <strong>安装</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/wuxie888/dianjing"><img src="./assets/readme/canvas/icons/brand-github.svg" alt="" width="17"> <strong>GitHub</strong></a>
+  &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/sciencedegens"><img src="./assets/readme/canvas/icons/brand-x.svg" alt="" width="17"> <strong>X / Twitter</strong></a>
+  &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
+  <a href="https://wuxie888.github.io/dianjing/"><img src="./assets/readme/canvas/icons/world-www.svg" alt="" width="17"> <strong>动态展示</strong></a>
+  &nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;
+  <a href="#03--公开验收"><img src="./assets/readme/canvas/icons/download.svg" alt="" width="17"> <strong>安装</strong></a>
+</p>
 
 <br>
 
@@ -59,34 +40,25 @@
       <img src="./assets/readme/canvas/icons/search.svg" alt="" width="34"><br>
       <strong>审计</strong><br>
       <sub>Audit</sub><br><br>
-      验证真实产品
-    </td>
-    <td align="center" width="4%">
-      <img src="./assets/readme/canvas/icons/arrow-right.svg" alt="" width="20">
+      验证源码、运行与发布
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/canvas/icons/target.svg" alt="" width="34"><br>
       <strong>定位</strong><br>
       <sub>Position</sub><br><br>
-      找准叙事与受众
-    </td>
-    <td align="center" width="4%">
-      <img src="./assets/readme/canvas/icons/arrow-right.svg" alt="" width="20">
+      找准受众、任务与叙事
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/canvas/icons/pencil.svg" alt="" width="34"><br>
       <strong>构成</strong><br>
       <sub>Compose</sub><br><br>
-      组织文档与视觉
-    </td>
-    <td align="center" width="4%">
-      <img src="./assets/readme/canvas/icons/arrow-right.svg" alt="" width="20">
+      组织文档、视觉与动效
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/canvas/icons/check.svg" alt="" width="34"><br>
       <strong>验收</strong><br>
       <sub>Verify</sub><br><br>
-      确认一致可发布
+      确认一致、可用与可发布
     </td>
   </tr>
 </table>
