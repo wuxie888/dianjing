@@ -13,25 +13,25 @@
     <td align="center">
       <a href="https://github.com/wuxie888/dianjing">
         <img src="./assets/readme/canvas/icons/brand-github.svg" alt="" width="18"><br>
-        <strong>&nbsp;&nbsp;GitHub&nbsp;&nbsp;</strong>
+        <strong>GitHub</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://x.com/sciencedegens">
         <img src="./assets/readme/canvas/icons/brand-x.svg" alt="" width="18"><br>
-        <strong>&nbsp;&nbsp;X&nbsp;/&nbsp;Twitter&nbsp;&nbsp;</strong>
+        <strong>X</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://wuxie888.github.io/dianjing/">
         <img src="./assets/readme/canvas/icons/world-www.svg" alt="" width="18"><br>
-        <strong>&nbsp;&nbsp;动态展示&nbsp;&nbsp;</strong>
+        <strong>演示</strong>
       </a>
     </td>
     <td align="center">
       <a href="#user-content-安装点睛">
         <img src="./assets/readme/canvas/icons/download.svg" alt="" width="18"><br>
-        <strong>&nbsp;&nbsp;安装&nbsp;&nbsp;</strong>
+        <strong>安装</strong>
       </a>
     </td>
   </tr>
@@ -58,26 +58,22 @@
     <td align="center" width="22%">
       <img src="./assets/readme/canvas/icons/search.svg" alt="" width="34"><br>
       <strong>审计</strong><br>
-      <sub>Audit</sub><br><br>
-      验证源码、运行与发布
+      <sub>Audit</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/canvas/icons/target.svg" alt="" width="34"><br>
       <strong>定位</strong><br>
-      <sub>Position</sub><br><br>
-      找准受众、任务与叙事
+      <sub>Position</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/canvas/icons/pencil.svg" alt="" width="34"><br>
       <strong>构成</strong><br>
-      <sub>Compose</sub><br><br>
-      组织文档、视觉与动效
+      <sub>Compose</sub>
     </td>
     <td align="center" width="22%">
       <img src="./assets/readme/canvas/icons/check.svg" alt="" width="34"><br>
       <strong>验收</strong><br>
-      <sub>Verify</sub><br><br>
-      确认一致、可用与可发布
+      <sub>Verify</sub>
     </td>
   </tr>
 </table>
