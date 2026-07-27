@@ -10,15 +10,7 @@
   为代码库完成最后一笔的 Agent Skill。
 </p>
 
-<p align="center">
-  <a href="https://github.com/wuxie888/dianjing"><img src="https://cdn.simpleicons.org/github/C94F3D" alt="" width="18" height="18"> GitHub</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/sciencedegens"><img src="https://cdn.simpleicons.org/x/C94F3D" alt="" width="18" height="18"> X / Twitter</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wuxie888.github.io/dianjing/"><img src="https://cdn.simpleicons.org/githubpages/C94F3D" alt="" width="18" height="18"> 动态展示</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#安装与第一次成功"><img src="https://cdn.simpleicons.org/gnubash/C94F3D" alt="" width="18" height="18"> 安装</a>
-</p>
+<p align="center"><a href="https://github.com/wuxie888/dianjing" title="GitHub"><img src="https://cdn.simpleicons.org/github/C94F3D" alt="GitHub" width="22" height="22"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/sciencedegens" title="X / Twitter"><img src="https://cdn.simpleicons.org/x/C94F3D" alt="X / Twitter" width="22" height="22"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wuxie888.github.io/dianjing/" title="动态展示"><img src="https://cdn.simpleicons.org/githubpages/C94F3D" alt="动态展示" width="22" height="22"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#安装与第一次成功" title="安装"><img src="https://cdn.simpleicons.org/gnubash/C94F3D" alt="安装" width="22" height="22"></a></p>
 
 ---
 
